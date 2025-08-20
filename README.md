@@ -164,17 +164,11 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## ✨ Demo
-🚀 Deployed on [Vercel](https://vercel.com/)
 
-▶️ [View Deployed Project](https://wealthwise-iota.vercel.app)
 
 ---
 
 ## 🙋‍♂️ Author
 
-**Siddharth Jain**
-📧 [siddharthj1405@gmail.com](mailto:siddharthj1405@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/siddharthj1405) | [GitHub](https://github.com/siddharthj14)
-
+**Tanmay Dhelia**
 ---
