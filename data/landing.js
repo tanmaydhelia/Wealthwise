@@ -93,35 +93,35 @@ export const howItWorksData = [
 // Testimonials Data
 export const testimonialsData = [
   {
-    name: "Pulkit Nandwana",
+    name: "Tanmay Kalla",
     role: "Financial Advisor",
     image: "https://randomuser.me/api/portraits/men/71.jpg",
     quote:
     "WealthWise is a game-changer. It gives me a clear picture of my burn rate and helps us plan budgets smartly every month.",
   },
   {
-    name: "Affan Ahammed",
-    role: "Small Business Owner",
+    name: "Ravi Dhelia",
+    role: "Founder D.K. Textiles",
     image: "https://randomuser.me/api/portraits/men/72.jpg",
     quote:
     "I love how easy it is to track transactions across my personal and business accounts. WealthWise just works—no fluff, just real insights.",
   },
   {
-    name: "Abhishek Kushwaha",
-    role: "Startup Founder",
+    name: "Siddharth Jain",
+    role: "Student Advisor",
     image: "https://randomuser.me/api/portraits/men/73.jpg",
     quote:
     "Welth has transformed how I manage my business finances. The AI insights have helped me identify cost-saving opportunities I never knew existed.",
   },
   {
-    name: "Akshat Agarwal",
-    role: "Product Manager",
+    name: "Prathit Singh",
+    role: "Student",
     image: "https://randomuser.me/api/portraits/men/74.jpg",
     quote:
     "The receipt scanning feature saves me hours each month. Now I can focus on my work instead of manual data entry and expense tracking.",
   },
   {
-    name: "Daksh Khandelwal",
+    name: "Harshita Dhelia",
     role: "Freelancer",
     image: "https://randomuser.me/api/portraits/men/75.jpg",
     quote:
