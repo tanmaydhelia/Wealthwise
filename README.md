@@ -48,7 +48,7 @@ WealthWise – AI-Powered Finance Platform
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/siddharthj14/wealthwise.git
+git clone https://github.com/tanmaydhelia/wealthwise.git
 cd wealthwise
 ```
 
