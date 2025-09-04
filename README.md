@@ -173,8 +173,8 @@ This project is licensed under the **MIT License**.
 
 ## 🙋‍♂️ Author
 
-**Siddharth Jain**
-📧 [siddharthj1405@gmail.com](mailto:siddharthj1405@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/siddharthj1405) | [GitHub](https://github.com/siddharthj14)
+**Tanmay Dhelia**
+📧 [tanmaydhelia03@gmail.com](mailto:tanmaydhelia03@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-dhelia) | [GitHub](https://github.com/tanmaydhelia)
 
 ---
