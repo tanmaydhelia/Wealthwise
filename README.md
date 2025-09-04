@@ -167,7 +167,7 @@ This project is licensed under the **MIT License**.
 ## ✨ Demo
 🚀 Deployed on [Vercel](https://vercel.com/)
 
-▶️ [View Deployed Project](https://wealthwise-iota.vercel.app)
+▶️ [View Deployed Project](https://wealthwise-azure.vercel.app/)
 
 ---
 
